@@ -40,3 +40,4 @@ VizGPT is a Python app that converts natural language descriptions into intellig
 ## Notes
 
 The app uses Ollama with the local `llama3` model to produce a structured chart spec from the natural language prompt and then renders the chart locally with Plotly.
+
